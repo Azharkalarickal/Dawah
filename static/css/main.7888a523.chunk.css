@@ -1,0 +1,2 @@
+.row:after{content:"";display:table;clear:both}.column1{background-color:#00f}.column1,.column2{float:left;width:50%;height:400px}.column2{background-color:#f0d}.column3{background-color:#0bb327}.column3,.column4{float:left;width:50%;height:200px}.column4{background-color:#dceb0b}.column5{background-color:#b30b59}.column5,.column6{float:left;width:50%;height:200px}.column6{background-color:#73b30b}@media screen and (max-width:600px){.column{width:100%}}
+/*# sourceMappingURL=main.7888a523.chunk.css.map */
